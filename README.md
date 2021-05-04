@@ -33,19 +33,19 @@ CantidadAnimales Valor de retorno
 Esqueleto:
 
 def Logica(cantidadAnimales):
- """ Compra de animales por un ganadero
- Parametros:
- --------------
- ventaInicial (float):
- Costo inicial por la compra de 18 animales (por defecto 9725482.00 )
- animalInicial (int):
- Cantidad inicial de animales comprados (por defecto 18)
- Descuento (float):
- Porcentaje de descuento por la compra de mas de 100 animales (por defecto 0.085)
- valorTotalActual (float):
- Calculo del monto a pagar con el descuento
- Retorna:
- ----------
- str: Cadena de caracteres de la forma " Ud con un descuento del 15% paga un valor de: " +
+Compra de animales por un ganadero
+
+Parametros:
+
+ventaInicial (float):
+Costo inicial por la compra de 18 animales (por defecto 9725482.00 )
+animalInicial (int):
+Cantidad inicial de animales comprados (por defecto 18)
+Descuento (float):
+Porcentaje de descuento por la compra de mas de 100 animales (por defecto 0.085)
+valorTotalActual (float):
+Calculo del monto a pagar con el descuento
+Retorna:
+str: Cadena de caracteres de la forma " Ud con un descuento del 15% paga un valor de: " +
 str(valorTotalActual).
-"""
+

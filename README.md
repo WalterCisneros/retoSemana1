@@ -26,9 +26,12 @@ del 15% paga un valor de: " + str(valorTotalActual)
 Ejemplos:
 
 CantidadAnimales Valor de retorno
-119 Ud con un descuento del 15% paga un valor de: 5465180.58
-150 Ud con un descuento del 15% paga un valor de: 6888883.08
-205 Ud con un descuento del 15% paga un valor de: 9414806.88
+
+-119 Ud con un descuento del 15% paga un valor de: 5465180.58
+
+-150 Ud con un descuento del 15% paga un valor de: 6888883.08
+
+-205 Ud con un descuento del 15% paga un valor de: 9414806.88
 
 Esqueleto:
 
